@@ -32,7 +32,7 @@
 
 ### Решение 1
 
-![Задание 1](https://github.com/Markin-AI/10-3/blob/main/img/1-1.png)
+![Задание 1](https://github.com/Markin-AI/10-4/blob/main/img/1-1.png)
 
 
 ---
