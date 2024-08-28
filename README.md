@@ -35,7 +35,8 @@
 
 [Файл resources.tf](https://github.com/Markin-AI/10-4/blob/main/files/resources.tf)
 
-![Задание 1](https://github.com/Markin-AI/10-4/blob/main/img/1-1.png)
+![Задание 1-1](https://github.com/Markin-AI/10-4/blob/main/img/1-1.png)
 
+![Задание 1-2](https://github.com/Markin-AI/10-4/blob/main/img/1-2.png)
 
 ---
