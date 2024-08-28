@@ -28,9 +28,12 @@
 *2. Скриншот статуса балансировщика и целевой группы.*
 
 *3. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.*
+
 ---
 
 ### Решение 1
+
+[Файл resources.tf](https://github.com/Markin-AI/10-4/blob/main/files/resources.tf)
 
 ![Задание 1](https://github.com/Markin-AI/10-4/blob/main/img/1-1.png)
 
